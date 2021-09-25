@@ -5,7 +5,7 @@ body {
 li {
   list-style: none;
 }
-
+/*ここからheader*/
 header {
   height: 65px;
   width: 100%;
@@ -20,11 +20,13 @@ header {
   padding: 33px 20px;
 }
 
+/*ここはmain*/
 .main {
   background-color: azure;
   height: 600px;
 }
 
+/*ここからfooter*/
 .footer {
   background-color: #2f5167;
   color: #fff;
